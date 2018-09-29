@@ -1,0 +1,28 @@
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# vscode
+.vscode/
+
+# Project
+videos/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+activate
